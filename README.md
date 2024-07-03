@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="">
-      <img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/Banner.png?alt=media&token=60342ca9-de47-4238-a4cb-d51e9b3f3530" alt="Project Banner">
+      <img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/RecipeAppBanner.png?alt=media&token=c8ed26c6-a3c5-4198-9066-3ee23825356c" alt="Project Banner">
 
   <div>
     <img src="https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
